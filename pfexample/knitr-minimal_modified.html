@@ -1,0 +1,22 @@
+<h1 id="a-minimal-example-for-markdown">A Minimal Example for Markdown</h1>
+<p>This is a minimal example of using <strong>knitr</strong> to produce an <em>HTML</em> page from <em>Markdown</em>.</p>
+<h2 id="r-code-chunks">R code chunks</h2>
+<p><strong>{r setup} # set global chunk options: images will be 7x5 inches knitr::opts_chunk$set(fig.width=7, fig.height=5) options(digits = 4)</strong></p>
+<p>Now we write some code chunks in this markdown file:</p>
+<p><strong>{r computing} x &lt;- 1+1 # a simple calculator set.seed(123) rnorm(5)  # boring random numbers</strong></p>
+<p>We can also produce plots:</p>
+<p><strong>{r graphics} par(mar = c(4, 4, .1, .1)) with(mtcars, {   plot(mpg~hp, pch=20, col='darkgray')   lines(lowess(hp, mpg)) })</strong></p>
+<h2 id="inline-code">Inline code</h2>
+<p>Inline R code is also supported, e.g. the value of <strong>x</strong> is <strong>r x</strong>, and 2 × π = <strong>r 2*pi</strong>.</p>
+<h2 id="math">Math</h2>
+<p>LaTeX math as usual: <span class="math inline"><em>f</em>(<em>α</em>, <em>β</em>) ∝ <em>x</em><sup><em>α</em> − 1</sup>(1 − <em>x</em>)<sup><em>β</em> − 1</sup></span>.</p>
+<h2 id="misc">Misc</h2>
+<p>You can indent code chunks so they can nest within other environments such as lists.</p>
+<ol type="1">
+<li>the area of a circle with radius x <strong>{r foo}  pi * x^2</strong></li>
+<li>OK, that is great</li>
+</ol>
+<p>To compile me, use</p>
+<p><strong>{r compile, eval=FALSE} library(knitr) knit('knitr-minimal.Rmd')</strong></p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Markdown is super easy to write. Go to <strong>knitr</strong> <a href="https://yihui.name/knitr/">homepage</a> for details.</p>

@@ -1,0 +1,724 @@
+List of 3
+ $ blocks            :List of 19
+  ..$ :List of 2
+  .. ..$ t: chr "Header"
+  .. ..$ c:List of 3
+  .. .. ..$ : int 1
+  .. .. ..$ :List of 3
+  .. .. .. ..$ : chr "a-minimal-example-for-markdown"
+  .. .. .. ..$ : list()
+  .. .. .. ..$ : list()
+  .. .. ..$ :List of 9
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "A"
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ t: chr "Space"
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "Minimal"
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ t: chr "Space"
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "Example"
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ t: chr "Space"
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "for"
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ t: chr "Space"
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "Markdown"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 30
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "This"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "is"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "a"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "minimal"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "example"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "of"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "using"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Strong"
+  .. .. .. ..$ c:List of 1
+  .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. ..$ c: chr "knitr"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "to"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "produce"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "an"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Emph"
+  .. .. .. ..$ c:List of 1
+  .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. ..$ c: chr "HTML"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "page"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "from"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Emph"
+  .. .. .. ..$ c:List of 1
+  .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. ..$ c: chr "Markdown"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "."
+  ..$ :List of 2
+  .. ..$ t: chr "Header"
+  .. ..$ c:List of 3
+  .. .. ..$ : int 2
+  .. .. ..$ :List of 3
+  .. .. .. ..$ : chr "r-code-chunks"
+  .. .. .. ..$ : list()
+  .. .. .. ..$ : list()
+  .. .. ..$ :List of 5
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "R"
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ t: chr "Space"
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "code"
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ t: chr "Space"
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "chunks"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 1
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Code"
+  .. .. .. ..$ c:List of 2
+  .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. ..$ : chr ""
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. ..$ : chr "{r setup} # set global chunk options: images will be 7x5 inches knitr::opts_chunk$set(fig.width=7, fig.height=5"| __truncated__
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 19
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "Now"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "we"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "write"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "some"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "code"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "chunks"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "in"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "this"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "markdown"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "file:"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 1
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Code"
+  .. .. .. ..$ c:List of 2
+  .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. ..$ : chr ""
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. ..$ : chr "{r computing} x <- 1+1 # a simple calculator set.seed(123) rnorm(5)  # boring random numbers"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 9
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "We"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "can"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "also"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "produce"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "plots:"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 1
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Code"
+  .. .. .. ..$ c:List of 2
+  .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. ..$ : chr ""
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. ..$ : chr "{r graphics} par(mar = c(4, 4, .1, .1)) with(mtcars, {   plot(mpg~hp, pch=20, col='darkgray')   lines(lowess(hp, mpg)) })"
+  ..$ :List of 2
+  .. ..$ t: chr "Header"
+  .. ..$ c:List of 3
+  .. .. ..$ : int 2
+  .. .. ..$ :List of 3
+  .. .. .. ..$ : chr "inline-code"
+  .. .. .. ..$ : list()
+  .. .. .. ..$ : list()
+  .. .. ..$ :List of 3
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "Inline"
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ t: chr "Space"
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "code"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 37
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "Inline"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "R"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "code"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "is"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "also"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "supported,"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "e.g. the"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "value"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "of"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Code"
+  .. .. .. ..$ c:List of 2
+  .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. ..$ : chr ""
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. ..$ : chr "x"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "is"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Code"
+  .. .. .. ..$ c:List of 2
+  .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. ..$ : chr ""
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. ..$ : chr "r x"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr ","
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "and"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "2"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "×"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "π"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "SoftBreak"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "="
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Code"
+  .. .. .. ..$ c:List of 2
+  .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. ..$ : chr ""
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. ..$ : chr "r 2*pi"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "."
+  ..$ :List of 2
+  .. ..$ t: chr "Header"
+  .. ..$ c:List of 3
+  .. .. ..$ : int 2
+  .. .. ..$ :List of 3
+  .. .. .. ..$ : chr "math"
+  .. .. .. ..$ : list()
+  .. .. .. ..$ : list()
+  .. .. ..$ :List of 1
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "Math"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 10
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "LaTeX"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "math"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "as"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "usual:"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Math"
+  .. .. .. ..$ c:List of 2
+  .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. ..$ t: chr "InlineMath"
+  .. .. .. .. ..$ : chr "f(\\alpha, \\beta) \\propto x^{\\alpha-1}(1-x)^{\\beta-1}"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "."
+  ..$ :List of 2
+  .. ..$ t: chr "Header"
+  .. ..$ c:List of 3
+  .. .. ..$ : int 2
+  .. .. ..$ :List of 3
+  .. .. .. ..$ : chr "misc"
+  .. .. .. ..$ : list()
+  .. .. .. ..$ : list()
+  .. .. ..$ :List of 1
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "Misc"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 29
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "You"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "can"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "indent"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "code"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "chunks"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "so"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "they"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "can"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "nest"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "within"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "other"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "environments"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "such"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "as"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "lists."
+  ..$ :List of 2
+  .. ..$ t: chr "OrderedList"
+  .. ..$ c:List of 2
+  .. .. ..$ :List of 3
+  .. .. .. ..$ : int 1
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ t: chr "Decimal"
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ t: chr "Period"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. ..$ t: chr "Plain"
+  .. .. .. .. .. ..$ c:List of 17
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "the"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "area"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "of"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "a"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "circle"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "with"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "radius"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "x"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "SoftBreak"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Code"
+  .. .. .. .. .. .. .. ..$ c:List of 2
+  .. .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. .. ..$ : chr ""
+  .. .. .. .. .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. .. .. .. ..$ : chr "{r foo}  pi * x^2"
+  .. .. .. ..$ :List of 1
+  .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. ..$ t: chr "Plain"
+  .. .. .. .. .. ..$ c:List of 7
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "OK,"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "that"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "is"
+  .. .. .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. .. .. ..$ t: chr "Space"
+  .. .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. .. ..$ c: chr "great"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 7
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "To"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "compile"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "me,"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "use"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 1
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Code"
+  .. .. .. ..$ c:List of 2
+  .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. ..$ : chr ""
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. ..$ : chr "{r compile, eval=FALSE} library(knitr) knit('knitr-minimal.Rmd')"
+  ..$ :List of 2
+  .. ..$ t: chr "Header"
+  .. ..$ c:List of 3
+  .. .. ..$ : int 2
+  .. .. ..$ :List of 3
+  .. .. .. ..$ : chr "conclusion"
+  .. .. .. ..$ : list()
+  .. .. .. ..$ : list()
+  .. .. ..$ :List of 1
+  .. .. .. ..$ :List of 2
+  .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. ..$ c: chr "Conclusion"
+  ..$ :List of 2
+  .. ..$ t: chr "Para"
+  .. ..$ c:List of 23
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "Markdown"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "is"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "super"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "easy"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "to"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "write."
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "Go"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "to"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Strong"
+  .. .. .. ..$ c:List of 1
+  .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. ..$ c: chr "knitr"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Link"
+  .. .. .. ..$ c:List of 3
+  .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. ..$ : chr ""
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. .. ..$ : list()
+  .. .. .. .. ..$ :List of 1
+  .. .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. .. ..$ t: chr "Str"
+  .. .. .. .. .. .. ..$ c: chr "homepage"
+  .. .. .. .. ..$ :List of 2
+  .. .. .. .. .. ..$ : chr "https://yihui.name/knitr/"
+  .. .. .. .. .. ..$ : chr ""
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "for"
+  .. .. ..$ :List of 1
+  .. .. .. ..$ t: chr "Space"
+  .. .. ..$ :List of 2
+  .. .. .. ..$ t: chr "Str"
+  .. .. .. ..$ c: chr "details."
+ $ pandoc-api-version:List of 4
+  ..$ : int 1
+  ..$ : int 17
+  ..$ : int 3
+  ..$ : int 1
+ $ meta              : Named list()

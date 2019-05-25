@@ -1,0 +1,34 @@
+---
+knit: (function(inputFile, encoding) {source('_pre_knit.R'); render(inputFile, output_format = custom_format, run_pandoc = FALSE); original = paste0(inputFile,"_tmp.Rmd"); rmarkdown::render(inputFile, encoding = encoding); file.copy(original, inputFile); unlink(original)})
+output: 
+  pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+enable_caps <- FALSE
+emph = function(x){
+  if(enable_caps && knitr::is_latex_output()) {
+    sprintf("\\textsc{%s}", x)  
+  } else if(!enable_caps && knitr::is_latex_output()){
+    sprintf("\\textbf{%s}", x)
+  } else if(!enable_caps && !knitr::is_latex_output()){
+    sprintf("**%s**", x)
+  } else sprintf("_%s_", x)
+}
+```
+
+## Intro
+
+This is an R Markdown document `◊emph(with custom formatting)`.  
+
+```{r cars}
+summary(cars)
+```
+
+## Wait a second
+
+`r enable_caps = TRUE`
+
+In this essay, `◊emph(I will)`
+
